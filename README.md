@@ -7,9 +7,9 @@ I'm interested in:
 🦴 Immunology
 📊 Data visualisation
 
-- 🌱 I’m currently learning single cell data analysis
-- 
-- 📫 How to reach me
-- https://www.linkedin.com/in/pumla-manyatsi-619917107/
--  
+🌱 I’m currently learning single cell data analysis
+
+📫 How to reach me
+ https://www.linkedin.com/in/pumla-manyatsi-619917107/
+ 
 
