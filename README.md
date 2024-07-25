@@ -1,6 +1,6 @@
 
 Hi there 👋
-I'm Pumla, a Biotechnology (bioinformatics) PhD student based at the Univeristy of Dokuz Eylul.
+I'm Pumla, a Biotechnology (bioinformatics) PhD candidate based at the Univeristy of Dokuz Eylul.
 
 I'm interested in:
 🧬 All things bulk and single-cell RNA-seq
