@@ -4,7 +4,9 @@ I'm Pumla, a Biotechnology (bioinformatics) PhD candidate based at the Univerist
 
 I'm interested in:
 🧬    All things bulk and single-cell RNA-seq
+
 🐀🚶 Immunology
+
 📊    Data visualisation
 
 🌱 I’m currently learning single cell data analysis
