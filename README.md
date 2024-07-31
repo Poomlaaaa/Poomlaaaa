@@ -3,9 +3,9 @@ Hi there 👋
 I'm Pumla, a Biotechnology (bioinformatics) PhD candidate based at the Univeristy of Dokuz Eylul.
 
 I'm interested in:
-🧬 All things bulk and single-cell RNA-seq
-🦴 Immunology
-📊 Data visualisation
+🧬    All things bulk and single-cell RNA-seq
+🐀🚶 Immunology
+📊    Data visualisation
 
 🌱 I’m currently learning single cell data analysis
 
