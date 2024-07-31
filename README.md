@@ -3,11 +3,12 @@ Hi there 👋
 I'm Pumla, a Biotechnology (bioinformatics) PhD candidate based at the Univeristy of Dokuz Eylul.
 
 I'm interested in:
-🧬    All things bulk and single-cell RNA-seq
+
+🧬 All things bulk and single-cell RNA-seq
 
 🐀🚶 Immunology
 
-📊    Data visualisation
+📊  Data visualisation
 
 🌱 I’m currently learning single cell data analysis
 
